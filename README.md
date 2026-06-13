@@ -22,7 +22,7 @@ I build **complex data visualizations**, **real-time streaming UIs**, and **scal
 - **Visualization:** D3.js · React Flow · Recharts · Chart.js
 - **Real-time:** WebSockets · Server-Sent Events (SSE) · WebRTC
 - **Testing & tooling:** Playwright · Vitest · Vite · Docker · CI/CD
-- **Backend (familiar):** Node.js · NestJS · PostgreSQL · MongoDB · Web3.js
+- **Backend:** Node.js · NestJS · PostgreSQL · MongoDB · Web3.js
 
 ### Selected experience
 
