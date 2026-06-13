@@ -26,7 +26,7 @@ I build **complex data visualizations**, **real-time streaming UIs**, and **scal
 
 ### Selected experience
 
-- **Bittrace — Crypto AML/compliance platform** *(AldanDev · 2024 – present)* — sole frontend owner. Interactive blockchain investigation graph (React Flow) rendering **1,000+ interconnected addresses** with custom nodes/edges, clustering, and full undo/redo. Re-architected risk scoring from polling to **real-time SSE streaming** with progressively-animated visualizations. Custom request-batching layer, BDD (Playwright) + ~75% unit coverage, multi-instance white-label deployments, and an automated Gemini-powered localization pipeline.
+- **Bittrace — Crypto AML/compliance platform** *(AldanDev · 2024 – present)* — frontend developer. Interactive blockchain investigation graph (React Flow) rendering hundreds interconnected addresses** with custom nodes/edges, clustering, and full undo/redo. Re-architected risk scoring from polling to **real-time SSE streaming** with progressively-animated visualizations. Custom request-batching layer, BDD (Playwright) + ~75% unit coverage, multi-instance white-label deployments, and an automated Gemini-powered localization pipeline.
 - **Headframe — BTC mining pool** *(2022 – 2024)* — real-time dashboard for **5,000+ MAU**: live hashrate/earnings tracking and ASIC management over WebSocket. Cut average page load **2.2s → 1.2s**; ~80% unit coverage.
 - **Inssmart — insurance aggregator** *(2020 – 2022)* — CRM, filtering, and policy-creation tools with React/TS/Redux. Promoted intern → junior in 2 months.
 
