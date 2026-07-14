@@ -32,6 +32,7 @@ I build **complex data visualizations**, **real-time streaming UIs**, and **scal
 
 ### Featured projects
 
+- [**sse-websocket-time-travel**](https://github.com/ulvikuliev/sse-websocket-time-travel): time-travel debugger for **SSE/WebSocket** streams. Records incoming events, rewinds application state to any recorded moment through a pure reducer, and **replays the stream at its original pace**; the panel drags, resizes, and pops out into a chromeless picture-in-picture window. React, zero runtime dependencies. Grew out of the real-time risk-scoring work at Bittrace.
 - [**telegram-calls**](https://github.com/ulvikuliev/telegram-calls): peer-to-peer voice & video calls as a Telegram Mini App. WebRTC + Socket.io signaling, NestJS backend, React 19 client, Telegraf bot, Dockerized with automatic TLS.
 - [**p2p_exchange_telegram**](https://github.com/ulvikuliev/p2p_exchange_telegram): a pet project exploring P2P exchange mechanics as a Telegram bot. Deal lifecycle with queue-based timers (BullMQ), scheduled FX-rate polling, seller collateral accounting, and a React Mini App back office. NestJS + TypeORM + PostgreSQL.
 
